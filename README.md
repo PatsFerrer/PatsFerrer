@@ -1,6 +1,6 @@
 # Hello, World! I'm Pats Ferrer! <img src="https://avatars.githubusercontent.com/u/124654139?v=4" width="30" style="vertical-align: middle;">
 
-Futura Desenvolvedora Full Stack, cursando Análise e Desenvolvimento de Sistemas, Pequena Gafanhota do Gustavo Guanabara, Recode Pro 2023, ONE - Oracle Next Education + Alura. Apaixonada por games, músicas e viagens! Às vezes faço lives na twitch! Meus [Links](https://patsferrer.github.io/links/)!
+Desenvolvedora Full Stack, cursando Análise e Desenvolvimento de Sistemas, Pequena Gafanhota do Gustavo Guanabara, Recode Pro 2023, ONE - Oracle Next Education + Alura. Apaixonada por games, músicas e viagens! Às vezes faço lives na twitch! Meus [Links](https://patsferrer.github.io/links/)!
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpatsferrer"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fpatsferrer&labelColor=%23ba68c8&countColor=%23697689&style=flat" /></a>
 
